@@ -6,5 +6,4 @@ AnimeApi is a single page application which I coded with JavaScript. You can rea
 https://anutka2610.github.io/AnimeAppUsingApi/index.html
 
 ## API
-To create this aplication I used this API [
-](https://chandan-02.github.io/anime-facts-rest-api/)
+To create this aplication I used this API: https://chandan-02.github.io/anime-facts-rest-api/
