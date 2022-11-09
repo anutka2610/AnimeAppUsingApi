@@ -9,23 +9,10 @@ https://anutka2610.github.io/AnimeAppUsingApi/index.html
 ## API
 To create this aplication I used this API: https://chandan-02.github.io/anime-facts-rest-api/
 
-## Structure
-.
-|_ _ Public
-|       |_ _ style.css
-|
-|_ _src
-|     |_ _pages
-|     |      |_ _fetchData.js
-|     |      
-|     |_ _views
-|.    |      |_ _ buttonPage.js 
-|.    |.     |_ _ welcome.js
-|.    |
-|.    |_ _constants.js
-|
-|_ _ index.html
-|
-|_ _ README.md
-|
-|_ _ script.js
+## Feedback
+This is my first project and I had only 1 week. I am in the process of learning to become IT development. So have a loock on it, maybe you have idea how to improve it. To do this you need make some steps:
+1. Fork the Project
+2. Create your branch where you will show me your view (git checkout -b feature)
+3. Commit your Changes (git commit -m 'explane what was done')
+4. Push your changes and I can see them (git push origin feature/AmazingFeature)
+
