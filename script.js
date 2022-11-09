@@ -6,8 +6,7 @@ import { URL } from "./src/constants.js";
 const initButton = ()=>{
     getData(createAnimeButton)}
 
-  const initWelcomePage = () => {
-
+const initWelcomePage = () => {
     const welcomeElement = createWelcomeElement();
     MAIN.appendChild(welcomeElement);
     
